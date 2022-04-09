@@ -1,0 +1,7 @@
+introdução
+O site lets play now conta com os recursos de forum, suporte onde voce pode tirar suas duvidas e promover suas criticas, noticias onde voce ficara atualizado no mundo dos games.
+voce em sua conta pode adicionar sua biblioteca de jogos, pode adicionar amigos e saber o que eles estão jogando.
+administração
+a caixa de entrada serve para monitorar as duvidas, questoes e relatorios enviadas aos administradores 
+O administrador pode bloquear usuarios com fotos ofensivas, nomes ofensivos, fechar forum para nao se estender ou entrar em outro assunto.
+O administrador pode editar o perfil dele assim como todos os outros, analisar os ultimos usuarios que foram cadastrados recentemente,pode adicionar ou remover palavras ofensivas e analizar os banimentos para aumentar, diminuir ou cancelar.
